@@ -26,8 +26,6 @@
 
 Taking the provided codebase and refactor it to make it accessible.
 
-- Build and style static webpages with semantic HTML and CSS.
-
 ---
 
 ### <a name="Installations"></a>Installations:
@@ -38,6 +36,7 @@ Taking the provided codebase and refactor it to make it accessible.
 
 ### <a name="Usage"></a>Usage:
 
+- Build and style static webpages with semantic HTML and CSS.
 - Implement best practices and standards when structuring HTML files using nested elements, indentation, comments, and line breaks.
 - Implement CSS styling via class, id and element selectors using external stylesheets, inline styles and embedded style tags.
 - Explain the "cascading" in Cascading Style Sheets and implement the box model for HTML elements.
