@@ -22,7 +22,7 @@
 
 ---
 
-### <a name="Description"></a>Description
+### <a name="Description"></a>Description:
 
 Taking the provided codebase and refactor it to make it accessible.
 
@@ -30,13 +30,13 @@ Taking the provided codebase and refactor it to make it accessible.
 
 ---
 
-### <a name="Installations"></a>Installations
+### <a name="Installations"></a>Installations:
 
 - [x] VS Code
 
 ---
 
-### <a name="Usage"></a>Usage
+### <a name="Usage"></a>Usage:
 
 - Implement best practices and standards when structuring HTML files using nested elements, indentation, comments, and line breaks.
 - Implement CSS styling via class, id and element selectors using external stylesheets, inline styles and embedded style tags.
@@ -47,7 +47,7 @@ Taking the provided codebase and refactor it to make it accessible.
 
 ---
 
-### <a name="License"></a>License
+### <a name="License"></a>License:
 
 MIT License
 Copyright (c) 2020 Joshua Wilensky
@@ -72,19 +72,19 @@ SOFTWARE.
 
 ---
 
-### <a name="Contributing"></a>Contributions
+### <a name="Contributing"></a>Contributions:
 
 Joshua Wilensky
 
 ---
 
-### <a name="Questions"></a>Questions
+### <a name="Questions"></a>Leave a Message:
 
-## joshwilensky@gmail.com
+# joshwilensky@gmail.com
 
 ---
 
-### <a name="Github"></a>GitHub Account
+### <a name="Github"></a>GitHub Account:
 
 http://github.com/joshwilensky
 
