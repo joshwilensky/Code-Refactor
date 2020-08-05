@@ -28,9 +28,13 @@ Taking the provided codebase and refactor it to make it accessible.
 
 - Build and style static webpages with semantic HTML and CSS.
 
+---
+
 ### <a name="Installations"></a>Installations
 
 - [x] VS Code
+
+---
 
 ### <a name="Usage"></a>Usage
 
@@ -40,6 +44,8 @@ Taking the provided codebase and refactor it to make it accessible.
 - Explain the value of version control and use Git workflow to initialize projects, track changes, and host via remote server.
 - Perform common commands via the command line to interface with the operating system, such as navigating the file tree and creating and deleting files and directories.
 - Execute live deployment using GitHub Pages.
+
+---
 
 ### <a name="License"></a>License
 
@@ -64,13 +70,19 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+---
+
 ### <a name="Contributing"></a>Contributions
 
 Joshua Wilensky
 
+---
+
 ### <a name="Questions"></a>Questions
 
-joshwilensky@gmail.com
+## joshwilensky@gmail.com
+
+---
 
 ### <a name="Github"></a>GitHub Account
 
