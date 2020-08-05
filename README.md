@@ -30,7 +30,7 @@ Taking the provided codebase and refactor it to make it accessible.
 
 ### <a name="Installations"></a>Installations
 
-[x] VS Code
+- [x] VS Code
 
 ### <a name="Usage"></a>Usage
 
@@ -76,4 +76,4 @@ joshwilensky@gmail.com
 
 http://github.com/joshwilensky
 
-### <a name="Copyright"></a>&copy
+### <a name="Copyright"></a>&copy;
