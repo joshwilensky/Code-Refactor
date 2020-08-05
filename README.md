@@ -89,5 +89,3 @@ Joshua Wilensky
 http://github.com/joshwilensky
 
 ---
-
-### <a name="Copyright"></a>&copy; | 2020
