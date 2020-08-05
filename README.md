@@ -72,7 +72,7 @@ SOFTWARE.
 
 ---
 
-### <a name="Contributing"></a>Contributions:
+### <a name="Author"></a>Author:
 
 Joshua Wilensky
 
